@@ -33,3 +33,79 @@ I am a third-year Computer Science and Engineering student with a strong interes
 </p>
 
 ---
+---
+
+## 🚀 Featured Projects
+
+### 🧠 1. Neural Network vs Traditional Machine Learning
+
+🔗 [View Repository](https://github.com/TechJatin/Neural-Network-vs-Traditional-ML-Project)
+
+A machine learning project comparing traditional ML algorithms with a neural network to explore their performance on a classification task.
+
+- 📊 Logistic Regression and Random Forest
+- 🤖 Neural Network using TensorFlow/Keras
+- 📈 Model evaluation and performance comparison
+- 🛠️ **Tech Stack:** Python, Scikit-learn, TensorFlow/Keras, Pandas, NumPy
+
+
+### 📊 2. Machine Learning Projects Collection
+
+🔗 [View Repository](https://github.com/TechJatin/machine-learning)
+
+A collection of Python projects covering different machine learning algorithms and practical applications.
+
+- 🎬 Movie Recommendation System
+- 💳 Credit Card Fraud Detection
+- 👥 Customer Segmentation
+- 🏠 House Price Prediction
+- 📈 Linear Regression and K-Means Clustering
+- 💬 Sentiment Analysis
+- 🛠️ **Tech Stack:** Python, Scikit-learn, Data Science
+
+
+### 🛍️ 3. E-Commerce Website
+
+🔗 [View Repository](https://github.com/TechJatin/E-Commerce-Website-Project)
+
+A front-end e-commerce storefront featuring product displays, promotional sections, and shopping-oriented navigation.
+
+- 🛒 Product cards and shopping interface
+- 🎨 Styled layout and promotional sections
+- 📱 Web interface development
+- 🛠️ **Tech Stack:** HTML5, CSS3, Font Awesome
+
+### ⌨️ 4. Typing Speed Test
+
+🔗 [Live Demo](https://techjatin.github.io/Typing-Speed-Test-web/) | [Source Code](https://github.com/TechJatin/Typing-Speed-Test-web)
+
+A browser-based application for practicing typing speed and measuring typing accuracy.
+
+- ⚡ Words-per-minute tracking
+- 🎯 Typing accuracy calculation
+- ⏱️ Typing progress and results
+- 🛠️ **Tech Stack:** HTML, CSS, JavaScript
+
+
+---
+
+## 🎯 Current Goals
+
+- 🤖 Build more practical Machine Learning and Deep Learning projects
+- 📚 Strengthen Data Structures and Algorithms
+- 💻 Improve software development skills
+- 🚀 Develop projects that solve real-world problems
+
+---
+
+## 🤝 Connect With Me
+
+- 💻 GitHub: [@TechJatin](https://github.com/TechJatin)
+- 💼 LinkedIn: [Jatin Kumar Gupta](https://www.linkedin.com/in/jatin-kumar-gupta-2b22a0276/)
+
+---
+
+<div align="center">
+  <h3>💡 Learn • Build • Innovate</h3>
+  <i>Turning ideas into projects, one commit at a time. 🚀</i>
+</div>
