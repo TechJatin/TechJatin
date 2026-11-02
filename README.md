@@ -16,23 +16,44 @@ I am a third-year Computer Science and Engineering student with a strong interes
 - ⚡ Focused on continuous learning, problem-solving, and improving my coding skills
 - 🤝 Enjoy collaborating on projects and learning new technologies
 
----
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
----
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</p>
+
+### 🧠 Data Structures & Algorithms
+<p>
+  <img src="https://img.shields.io/badge/DSA_with_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="DSA with Java"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-2E8B57?style=for-the-badge" alt="Problem Solving"/>
+</p>
+
+### 🤖 Machine Learning & Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-6A1B9A?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 ---
 
 ## 🚀 Featured Projects
