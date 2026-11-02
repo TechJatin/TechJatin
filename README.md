@@ -37,18 +37,27 @@ I am a third-year Computer Science and Engineering student with a strong interes
 
 ## 🚀 Featured Projects
 
-### 🧠 1. Neural Network vs Traditional Machine Learning
+### 🧠 1. ### 🧠 Neural Network vs Traditional Machine Learning
 
-🔗 [View Repository](https://github.com/TechJatin/Neural-Network-vs-Traditional-ML-Project)
+🔗 **Live Demo:** [Try the Project](https://techjatin-deep-learning-ml-project.streamlit.app/)  
+📂 **Source Code:** [View on GitHub](https://github.com/TechJatin/Neural-Network-vs-Traditional-ML-Project)
 
-A machine learning project comparing traditional ML algorithms with a neural network to explore their performance on a classification task.
+An interactive machine learning and deep learning project that compares traditional classification algorithms with a neural network.
 
-- 📊 Logistic Regression and Random Forest
-- 🤖 Neural Network using TensorFlow/Keras
-- 📈 Model evaluation and performance comparison
-- 🛠️ **Tech Stack:** Python, Scikit-learn, TensorFlow/Keras, Pandas, NumPy
+**Key Features**
+- 🤖 Logistic Regression
+- 🌳 Random Forest Classifier
+- 🧠 Neural Network using TensorFlow/Keras
+- 📊 Model performance comparison
+- 📈 Interactive results and visualizations
 
+**Technology Stack**
 
+`Python` `Scikit-learn` `TensorFlow/Keras` `Pandas` `NumPy` `Streamlit`
+
+🎯 **Objective:** Explore the differences between traditional machine learning algorithms and neural networks through an interactive application.
+
+---
 ### 📊 2. Machine Learning Projects Collection
 
 🔗 [View Repository](https://github.com/TechJatin/machine-learning)
@@ -64,16 +73,27 @@ A collection of Python projects covering different machine learning algorithms a
 - 🛠️ **Tech Stack:** Python, Scikit-learn, Data Science
 
 
-### 🛍️ 3. E-Commerce Website
+### 🛍️ 3. ### 🛍️ E-Commerce Website
 
-🔗 [View Repository](https://github.com/TechJatin/E-Commerce-Website-Project)
+🔗 **Live Demo:** [Visit Website](https://techjatin-e-commerce-website.netlify.app/)  
+📂 **Source Code:** [View on GitHub](https://github.com/TechJatin/E-Commerce-Website-Project)
 
-A front-end e-commerce storefront featuring product displays, promotional sections, and shopping-oriented navigation.
+A front-end e-commerce website designed to showcase products through an attractive shopping interface and organized product layouts.
 
-- 🛒 Product cards and shopping interface
-- 🎨 Styled layout and promotional sections
-- 📱 Web interface development
-- 🛠️ **Tech Stack:** HTML5, CSS3, Font Awesome
+**✨ Key Features**
+- 🛒 Product listings and product cards
+- 🎨 Promotional hero section
+- 🧭 Shopping-oriented navigation
+- ⭐ Product pricing and ratings display
+- 📱 Front-end layout and styling
+
+**🛠️ Technology Stack**
+
+`HTML5` `CSS3` `Font Awesome`
+
+🎯 **Objective:** Practice front-end development by building a structured e-commerce storefront.
+
+---
 
 ### ⌨️ 4. Typing Speed Test
 
