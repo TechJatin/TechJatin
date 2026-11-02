@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Jatin Kumar Gupta
 
-<!--
-**TechJatin/TechJatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech 3rd Year — Computer Science & Engineering Student  
+🏫 Invertis University, Bareilly, Uttar Pradesh  
+💻 Machine Learning & Deep Learning Enthusiast | Python Developer | Web Developer 🚀  
+🤖 Passionate about building practical AI/ML projects, exploring deep learning, and developing modern web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+I am a third-year Computer Science and Engineering student with a strong interest in **Machine Learning, Deep Learning, and Software Development**.
+
+- 🎯 Currently exploring Machine Learning, Deep Learning, and Data Structures & Algorithms
+- 💡 Interested in building real-world AI/ML and software projects
+- ⚡ Focused on continuous learning, problem-solving, and improving my coding skills
+- 🤝 Enjoy collaborating on projects and learning new technologies
+
+---
+
+## 🛠️ Skills
